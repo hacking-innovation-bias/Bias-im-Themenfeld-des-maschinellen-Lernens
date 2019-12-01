@@ -21,6 +21,8 @@ Anleitung:    - Festlegung des Kartendesigns und Umsetzung im Bildbearbeitungspr
               - Acrylglas auschneiden und beschriften mithilfe des Laser Cutters
           
 # Fotos
+https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-Lernens/issues/1
+https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-Lernens/issues/2
 
 # Dokumentation
-            
+
