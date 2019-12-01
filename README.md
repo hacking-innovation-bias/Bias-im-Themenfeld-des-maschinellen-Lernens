@@ -10,12 +10,10 @@ Chris und Joel
 
 Materialien:
 
-für die Spielkarten:
 - Farbdrucker
 - Papier mit der Dicke von Spielkarten (240g/qm)
 - Bildbearbeitungsprogramm (in unserem Fall MS Powerpoint)
 - Schere
-für den zweiten Spielmodus:
 - Laser Cutter
 - Acrylglas (in unserem Fall verspiegeltes Acrylglas
 - Software für das Format des Laser Cutters (AutoCad)
