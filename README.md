@@ -13,7 +13,6 @@ Materialien:  für die Spielkarten:
               - Papier mit der Dicke von Spielkarten (240g/qm)
               - Bildbearbeitungsprogramm (in unserem Fall MS Powerpoint)
               - Schere
-              
               für den zweiten Spielmodus:
               - Laser Cutter
               - Acrylglas (in unserem Fall verspiegeltes Acrylglas
@@ -36,3 +35,4 @@ https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-L
 
 # Dokumentation
 
+https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-Lernens/issues/3
