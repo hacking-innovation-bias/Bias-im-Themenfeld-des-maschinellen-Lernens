@@ -8,7 +8,7 @@ Chris und Joel
 
 ## Die Herstellung
 
-###Materialien:
+#### Materialien:
 
 - Farbdrucker
 - Papier mit der Dicke von Spielkarten (240g/qm)
@@ -18,7 +18,7 @@ Chris und Joel
 - Acrylglas (in unserem Fall verspiegeltes Acrylglas
 - Software für das Format des Laser Cutters (AutoCad)
 
-###Anleitung:
+#### Anleitung:
 
 - Festlegung des Kartendesigns und Umsetzung im Bildbearbeitungsprogramm
 - Ausdrucken der Karten auf passendem Papier
