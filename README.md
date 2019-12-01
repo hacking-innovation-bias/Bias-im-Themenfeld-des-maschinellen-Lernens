@@ -1,8 +1,13 @@
 # Bias-im-Themenfeld-des-maschinellen-Lernens
+
 Alltägliche Diskriminierung in der digitalen Gesellschaft
+
 # Gruppe
+
 Chris und Joel
-# Quartett Kartenspiel
+
+# Die Herstellung
+
 Materialien:  für die Spielkarten:
               - Farbdrucker
               - Papier mit der Dicke von Spielkarten (240g/qm)
@@ -20,7 +25,12 @@ Anleitung:    - Festlegung des Kartendesigns und Umsetzung im Bildbearbeitungspr
               - Modellierung des Feldes und Schrift für den zweiten Spielmodus
               - Acrylglas auschneiden und beschriften mithilfe des Laser Cutters
           
+# Das Artefakt
+
+Als Kartenspiel wurde Quartett gewählt, welches aus einem Paket spezieller Motivkarten besteht, die mit dem Ziel verbunden sind, Symbole, Zusammenhänge und Inhalte zu verbinden. Auf jeder Quartett-Karte wird ein Algorithmus mit Gender-Bias portraitiert und Informationen dazu in fünf Kategorien bereitgestellt. Die fünf Kategorien wurden so ausgewählt, dass diese neben den maschinellen Algorithmen auch menschliche und sogar fiktive Persönlichkeiten repräsentieren können. Dieses soll zum einen mehr Spielmodi ermöglichen (Verdecken des Titelbildes: Mensch oder Maschine?), aber auch im weiteren Sinn auf die ursprünglich menschliche Herkunft des Biases der maschinellen Algorithmen hinweisen.
+
 # Fotos
+
 https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-Lernens/issues/1
 https://github.com/hacking-innovation-bias/Bias-im-Themenfeld-des-maschinellen-Lernens/issues/2
 
